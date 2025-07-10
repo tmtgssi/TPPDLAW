@@ -21,3 +21,5 @@ python GUI.py
 5. The dataset used for training and evaluation can be found at:
    
 https://universe.roboflow.com/jaspreet-drxjo/saffron-teuxt
+
+![App Screenshot](app.png)
